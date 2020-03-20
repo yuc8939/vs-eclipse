@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UserSettings>
+  <ApplicationIdentity version="16.0" />
+  <ToolsOptions>
+    <ToolsOptionsCategory name="Environment" RegisteredName="Environment" />
+  </ToolsOptions>
+  <Category name="Environment_Group" RegisteredName="Environment_Group">
+    <Category name="Environment_KeyBindings" Category="{F09035F1-80D2-4312-8EC4-4D354A4BCB4C}" Package="{DA9FB551-C724-11d0-AE1F-00A0C90FFFC3}" RegisteredName="Environment_KeyBindings" PackageName="Visual Studio Environment Package">
+      <Version>16.0.0.0</Version>
+      <KeyboardShortcuts>
+        <ScopeDefinitions>
+          <Scope Name="Team Explorer" ID="{7AA20502-9463-47B7-BF43-341BAF51157C}" />
+          <Scope Name="VC Dialog Editor" ID="{543E0C02-8C85-4E43-933A-5EF320E3431F}" />
+          <Scope Name="Find All References Tool Window" ID="{1FA1FD06-3592-4D1D-AC75-0B953320140C}" />
+          <Scope Name="Test Explorer Playlist Tab" ID="{D2F6510A-150A-4F3F-9D7C-8E38622D26F7}" />
+          <Scope Name="XML (Text) Editor" ID="{FA3CD31E-987B-443A-9B81-186104E8DAC1}" />
+          <Scope Name="Text Editor" ID="{8B382828-6202-11D1-8870-0000F87579D2}" />
+          <Scope Name="Work Item Results View" ID="{7026002D-01F6-44E7-95CF-A896C00DA3F8}" />
+          <Scope Name="Solution Explorer" ID="{3AE79031-E1BC-11D0-8F78-00A0C9110057}" />
+          <Scope Name="Query Designer" ID="{B2C40B32-3A37-4CA9-97B9-FA44248B69FF}" />
+          <Scope Name="C# Editor with Encoding" ID="{08467B34-B90F-4D91-BDCA-EB8C8CF3033A}" />
+          <Scope Name="Watch Windows" ID="{90243340-BD7A-11D0-93EF-00A0C90F2734}" />
+          <Scope Name="WebBrowser" ID="{E8B06F41-6D01-11D2-AA7D-00C04F990343}" />
+          <Scope Name="CSS Editor" ID="{A5401142-F49D-43DB-90B1-F57BA349E55C}" />
+          <Scope Name="Graphics Designers" ID="{58961B49-13E0-48C0-9258-13CBC4D40279}" />
+          <Scope Name="DataSet Editor" ID="{B334A759-F450-40A5-BE2A-65937BCD5415}" />
+          <Scope Name="View Designer" ID="{B968E165-98E0-41F0-8FBE-A8ED1D246A90}" />
+          <Scope Name="Visual Basic Editor" ID="{2C015C70-C72C-11D0-88C3-00A0C9110049}" />
+          <Scope Name="Global" ID="{5EFC7975-14BC-11CF-9B2B-00AA00573819}" />
+          <Scope Name="HTML Editor" ID="{40D31677-CBC0-4297-A9EF-89D907823A98}" />
+          <Scope Name="Autos Window" ID="{F2E84780-2AF1-11D1-A7FA-00A0C9110051}" />
+          <Scope Name="Work Item Query View" ID="{B6303490-B828-410C-9216-AE727D0E282D}" />
+          <Scope Name="Team Foundation Build Detail Editor" ID="{86306A97-84F2-4F5A-889B-1318501AEB5F}" />
+          <Scope Name="Database Designer" ID="{CFF78A9B-78A3-45A3-9142-0267AFC261FA}" />
+          <Scope Name="Work Item Editor" ID="{40A91D9D-8076-4D28-87C5-5AF9F0ACFE0F}" />
+          <Scope Name="Live Unit Testing Tab" ID="{AA9A73A5-B2BF-400B-B57C-58F166FF1C56}" />
+          <Scope Name="JSON Editor" ID="{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}" />
+          <Scope Name="C# Editor" ID="{A6C744A8-0E4A-4FC6-886A-064283054674}" />
+          <Scope Name="VC String Editor" ID="{58442DA9-10DA-4AA9-A2AF-96E4D481379B}" />
+          <Scope Name="Merge Editor Window" ID="{9A9A8AAA-ACD2-4DB6-BD81-8D64176C52B6}" />
+          <Scope Name="Visual Basic Editor with Encoding" ID="{6C33E1AA-1401-4536-AB67-0E21E6E569DA}" />
+          <Scope Name="Settings Designer" ID="{515231AD-C9DC-4AA3-808F-E1B65E72081C}" />
+          <Scope Name="Windows Forms Designer" ID="{BA09E2AF-9DF2-4068-B2F0-4C7E5CC19E2F}" />
+          <Scope Name="VC Accelerator Editor" ID="{EB56D0B5-BEE7-4D0C-8BE6-88A8ED256695}" />
+          <Scope Name="Managed Resources Editor" ID="{FEA4DCC9-3645-44CD-92E7-84B55A16465C}" />
+          <Scope Name="Parallel Stacks Window" ID="{B9A151CE-EF7C-4FE1-A6AA-4777E6E518F3}" />
+          <Scope Name="Locals Window" ID="{4A18F9D0-B838-11D0-93EB-00A0C90F2734}" />
+          <Scope Name="Difference Viewer" ID="{79D52DDF-52BC-43F1-9663-B3E85CDCA912}" />
+          <Scope Name="Table Designer" ID="{4194FEE5-6777-419F-A5FC-47A536DF1BDB}" />
+          <Scope Name="HTML Editor Design View" ID="{CB3FCFEA-03DF-11D1-81D2-00A0C91BBEE3}" />
+          <Scope Name="HTML Editor Source View" ID="{CB3FCFEB-03DF-11D1-81D2-00A0C91BBEE3}" />
+          <Scope Name="VC Image Editor" ID="{C0BA70ED-069E-412B-9C06-7442E28A11B9}" />
+          <Scope Name="Test Explorer" ID="{E1B7D1F8-9B3C-49B1-8F4F-BFC63A88835D}" />
+          <Scope Name="XML Schema Designer" ID="{DEE6CEF9-3BCA-449A-82A6-FC757D6956FB}" />
+        </ScopeDefinitions>
+        <DefaultShortcuts>
+          <Shortcut Command="View.ViewCode" Scope="Global">F7</Shortcut>
+          <Shortcut Command="View.ViewDesigner" Scope="Global">Shift+F7</Shortcut>
+        </DefaultShortcuts>
+        <ShortcutsScheme />
+        <UserShortcuts>
+          <RemoveShortcut Command="Edit.GoToFile" Scope="Global">Ctrl+1, Ctrl+F</RemoveShortcut>
+          <RemoveShortcut Command="Edit.GoToFile" Scope="Global">Ctrl+1, F</RemoveShortcut>
+          <Shortcut Command="Edit.GoToFile" Scope="Global">Ctrl+Shift+R</Shortcut>
+          <RemoveShortcut Command="Edit.GoToType" Scope="Global">Ctrl+1, T</RemoveShortcut>
+          <RemoveShortcut Command="Edit.GoToType" Scope="Global">Ctrl+1, Ctrl+T</RemoveShortcut>
+          <Shortcut Command="Edit.GoToType" Scope="Global">Ctrl+Shift+T</Shortcut>
+          <RemoveShortcut Command="Edit.FindinFiles" Scope="Global">Ctrl+Shift+F</RemoveShortcut>
+          <Shortcut Command="Edit.FindinFiles" Scope="Global">Ctrl+H</Shortcut>
+          <RemoveShortcut Command="Edit.ToggleLineComment" Scope="Text Editor">Ctrl+K, Ctrl+/</RemoveShortcut>
+          <Shortcut Command="Edit.ToggleLineComment" Scope="Global">Alt+/</Shortcut>
+          <RemoveShortcut Command="Edit.LineDelete" Scope="Text Editor">Ctrl+Shift+L</RemoveShortcut>
+          <Shortcut Command="Edit.LineDelete" Scope="Text Editor">Ctrl+D</Shortcut>
+          <RemoveShortcut Command="Edit.CommentSelection" Scope="Text Editor">Ctrl+K, Ctrl+C</RemoveShortcut>
+          <Shortcut Command="Edit.CommentSelection" Scope="Text Editor">Ctrl+/</Shortcut>
+          <Shortcut Command="View.NavigateBackward" Scope="Global">Alt+Left Arrow</Shortcut>
+          <Shortcut Command="View.NavigateForward" Scope="Global">Alt+Right Arrow</Shortcut>
+          <Shortcut Command="View.NavigateForward" Scope="Work Item Editor">Alt+Right Arrow</Shortcut>
+          <Shortcut Command="View.NavigateForward" Scope="XML (Text) Editor">Alt+Right Arrow</Shortcut>
+          <Shortcut Command="View.NavigateForward" Scope="Text Editor">Alt+Right Arrow</Shortcut>
+          <Shortcut Command="View.NavigateForward" Scope="Solution Explorer">Alt+Right Arrow</Shortcut>
+          <Shortcut Command="View.NavigateBackward" Scope="Text Editor">Alt+Left Arrow</Shortcut>
+          <Shortcut Command="Edit.FindAllReferences" Scope="Global">Ctrl+G</Shortcut>
+          <Shortcut Command="Edit.FindAllReferences" Scope="Text Editor">Ctrl+G</Shortcut>
+          <RemoveShortcut Command="Edit.FindAllReferences" Scope="Global">Shift+F12</RemoveShortcut>
+          <Shortcut Command="Edit.GoTo" Scope="Text Editor">Ctrl+L</Shortcut>
+          <Shortcut Command="Edit.GoTo" Scope="Global">Ctrl+L</Shortcut>
+        </UserShortcuts>
+      </KeyboardShortcuts>
+    </Category>
+  </Category>
+</UserSettings>
