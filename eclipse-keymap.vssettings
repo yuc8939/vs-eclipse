@@ -85,6 +85,8 @@
           <RemoveShortcut Command="Edit.FindAllReferences" Scope="Global">Shift+F12</RemoveShortcut>
           <Shortcut Command="Edit.GoTo" Scope="Text Editor">Ctrl+L</Shortcut>
           <Shortcut Command="Edit.GoTo" Scope="Global">Ctrl+L</Shortcut>
+          <RemoveShortcut Command="Refactor.Rename" Scope="Global">Ctrl+R, Ctrl+R</RemoveShortcut>
+          <Shortcut Command="Refactor.Rename" Scope="Global">Shift+Alt+R</Shortcut>
         </UserShortcuts>
       </KeyboardShortcuts>
     </Category>
