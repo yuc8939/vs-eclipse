@@ -87,6 +87,10 @@
           <Shortcut Command="Edit.GoTo" Scope="Global">Ctrl+L</Shortcut>
           <RemoveShortcut Command="Refactor.Rename" Scope="Global">Ctrl+R, Ctrl+R</RemoveShortcut>
           <Shortcut Command="Refactor.Rename" Scope="Global">Shift+Alt+R</Shortcut>
+          <RemoveShortcut Command="Edit.GoToMember" Scope="Global">Ctrl+1, Ctrl+M</RemoveShortcut>
+          <RemoveShortcut Command="Edit.GoToMember" Scope="Global">Ctrl+1, M</RemoveShortcut>
+          <RemoveShortcut Command="Edit.GoToMember" Scope="Global">Alt+\</RemoveShortcut>
+          <Shortcut Command="Edit.GoToMember" Scope="Global">Ctrl+O</Shortcut>
         </UserShortcuts>
       </KeyboardShortcuts>
     </Category>
