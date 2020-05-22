@@ -1,7 +1,8 @@
 # vs-eclipse
 Visual Studio 2019 Eclipse Keymap
 
-Eclipse is the first IDE I used. Nowadays, even though instead of Eclipse, I am using Intellij IDEA for Java development, but I need Eclipse keymap in every IDE I use.
+There is no Eclipse keymap in Visual Studio 2019, so I made this repo here with love.
 
-I couldn't find any plugins for Eclipse keymap in Visual Studio 2019, this repo is here as a consequence. 
-Only some very commonly used keys are included. Hope this project helps.
+Eclipse is the first IDE I used. Nowadays, although I'm not using Eclipse anymore, (I am currently using Intellij IDEA for Java development, Visual Studio for C++ and VSCode for JavaScript), I have set up Eclipse keymap in every IDE I use. My fingers and muscles have memory for this first keymap I have ever used, and I believe that this muscle memory is a source of productivity.
+
+Please note that not all keys have been mapped, but only some very commonly used keymaps are included in this repo. Issues and Pull Requests are welcome. Hope this project helps.
