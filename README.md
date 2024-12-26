@@ -1,5 +1,5 @@
 # vs-eclipse
-Visual Studio 2019 Eclipse Keymap
+Visual Studio 2019/2022 Eclipse Keymap
 
 There is no Eclipse keymap in Visual Studio 2019, so I made this repo here with love.
 
